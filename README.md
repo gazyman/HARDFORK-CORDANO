@@ -9,3 +9,4 @@ i wana say hi
 Power
 Art
 Hypergaz
+dolore
