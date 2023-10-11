@@ -29,3 +29,4 @@ im watching you
 SEAR
 noyau
 gaza 
+no no no no yes yes yes yes 
