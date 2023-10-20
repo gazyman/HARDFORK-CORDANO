@@ -38,3 +38,4 @@ namless
 potaz
 Plaza
 lithium
+Small
