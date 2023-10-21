@@ -39,3 +39,4 @@ potaz
 Plaza
 lithium
 Small
+DALAS
