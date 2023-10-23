@@ -41,3 +41,4 @@ lithium
 Small
 DALAS
 tomina
+bcoin
